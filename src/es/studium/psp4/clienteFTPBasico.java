@@ -1,4 +1,4 @@
-package es.studium.psp5;
+package es.studium.psp4;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
